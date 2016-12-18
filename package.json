@@ -1,0 +1,15 @@
+{
+  "name": "my-previous-life",
+  "version": "1.0.0",
+  "description": "My Zenika presentation",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.5"
+  },
+  "scripts": {
+  	"browsersync": "browser-sync start --server 'website' --files 'website'"
+  },
+  "author": "gregory",
+  "license": "Apache-2.0"
+}

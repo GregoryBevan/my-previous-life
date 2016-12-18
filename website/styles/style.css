@@ -1,0 +1,198 @@
+body, html {
+	margin: 0;
+	height: 100%;
+	letter-spacing: 5px;
+	font: 30px "Lato", sans-serif;
+	color: #111;
+}
+
+#top {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 6vh;
+	line-height: 6vh;
+	padding: 0;
+	margin: 0;
+	background-color: rgba(16, 16, 16, 1);
+	color: #e5e5e5;
+	z-index: 2;
+	font-size: 4vh;
+	font-weight: bold;
+}
+
+#content {
+	position: fixed;
+	overflow: scroll;
+	bottom: 0;
+	width: 100%;
+	bottom: 0;
+	height: 94vh;
+}
+
+.bretagne {
+	background: url("../img/bretagne.jpg");
+	min-height: 100vh;
+	width: 100%;
+}
+
+.toulon {
+	position: relative;
+	background: url("../img/toulon-reduite.jpg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.ville-pourrie {
+	position: relative;
+	background: url("../img/ville-pourrie.png");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.ingenieur-informaticien {
+	position: relative;
+	background: url("../img/ingenieur-informaticien.jpeg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.jobless {
+	position: relative;
+	background: url("../img/jobless.jpeg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.contract-signing {
+	position: relative;
+	background: url("../img/contract-signing.gif");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.utopia {
+	position: relative;
+	background: url("../img/utopia.jpeg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.crm {
+	position: relative;
+	background: url("../img/crm.gif");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.breathless {
+	position: relative;
+	background: url("../img/breathless.jpeg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.boring {
+	position: relative;
+	background: url("../img/boring.jpeg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.carlton {
+	position: relative;
+	background: url("../img/carlton.gif");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.back {
+	position: relative;
+	background: url("../img/back.jpeg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.back {
+	position: relative;
+	background: url("../img/back.jpeg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.github {
+	position: relative;
+	background: url("../img/github.png");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+svg{
+  display:block;
+  width:100%;
+  min-height:94vh;
+  margin:0 auto;
+}
+
+.overlay {
+	background: radial-gradient(transparent 150px, rgba(0, 0, 0, 1) 150px);
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+	z-index: 10;
+	opacity: 1;
+}
+
+.leony {
+	position: relative;
+	background: url("../img/leony.jpg");
+	width: 100%;
+	min-height: 94vh;
+	padding-top: 94vh;
+}
+
+.parallax {
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: 100vw 94vh;
+	opacity: 0.70;
+}
+
+.text {
+	position: absolute;
+	left: 0;
+	top: 40%;
+	width: 30vw;
+	text-align: center;
+	color: #fff;
+	z-index: 2;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.text span.border {
+	display: block;
+	padding: 18px;
+	font-size: 1.5em;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+}
+
+.right {
+	right: 0;
+	left: auto;
+}

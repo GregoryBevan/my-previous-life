@@ -1,0 +1,23 @@
+Après une jeunesse heureuse en Bretagne, j'ai émigré dans la belle ville de Toulon pour apprendre 
+les télécoms
+
+Bien m'en a pris car je suis devenu informaticien.
+
+Après une période de recherche d'emploi éreintante, je suis parti à Paris 
+où j'ai intégré un éditeur de L4G pour que les non informaticiens 
+puissent développer des applications en Java.
+
+J'y ai rencontré mon premier mentor Java et ça a quand même lancé ma carrière.
+
+Seconde expérience et toujours un éditeur de logiciels, mais cette fois dans la CRM. J'y suis resté huit ans, pas assez pour m'être complètement encrouter.
+
+Après 10 ans de vie trépidante, un retour au source ou presque s'imposait : Nantes.
+
+Nouvel emploi, nouvel éditeur, cette fois dans le monde de l'agroalimentaire. Passionnant...
+
+Et puis, après 14 ans à tatonner, j'ai enfin trouvé ma voie : Zenika. Moi qui fuyait le monde des SSII, j'ai été séduit par Ze SSII.
+
+Pour info, je suis plutôt un développeur Back Java (Personne n'est parfait)
+
+Et si ma photo sur Github c'est ça, mon quotidien c'est ça.
+
